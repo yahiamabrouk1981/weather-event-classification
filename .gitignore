@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.egg-info/
+dist/
+build/
+env/
+venv/
+*.env
+
+# Flask-related files
+instance/
+.webassets-cache
+
+# Node.js and React
+node_modules/
+build/
+dist/
+npm-debug.log
+yarn-error.log
+
+# IDE or Editor specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system specific files
+.DS_Store
+Thumbs.db
